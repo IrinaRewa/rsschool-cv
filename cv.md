@@ -1,8 +1,8 @@
 # Reva Irina Aleksandrovna #
 
 ## Contact information: ##
-### Discord: Irina_Rewa(@IrinaRewa)  ###
-### E-mail: Irina.rewa@gmail.com ###
+#### Discord: Irina_Rewa(@IrinaRewa)  ####
+#### E-mail: Irina.rewa@gmail.com ####
 
 ------------------------------
 ## Education: ##
