@@ -1,7 +1,7 @@
 # Reva Irina Aleksandrovna #
 
 ## Contact information: ##
-### Discord: Irina_Rewa#6273  ###
+### Discord: Irina_Rewa(@IrinaRewa)  ###
 ### E-mail: Irina.rewa@gmail.com ###
 
 ------------------------------
@@ -21,6 +21,14 @@ I'm 39 years old. I like to develop and learn something new.
 
 From 2007 to 2009 i worked at the Professional Lyceum of Communications as a master in the group "Operator of long-distance and information and reference service" and as a teacher of computer literacy. From 2009 to 2010 I worked in a hosting company as a "Hosting Department Specialist". Then I moved to the company "Unique Technologies" for the position of "Software Quality Control Manager". From 2018 to the present time I have been working at "SportTechConsult" LLC as an office manager. 
 
+_______________________________
+## Code example ##
+
+```
+ function multiply(a, b){
+ a * b
+} 
+```
 -------------------------------
 ## Skills ##
 
