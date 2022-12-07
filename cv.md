@@ -2,7 +2,8 @@
 
 ## Contact information: ##
 * Discord: Irina_Rewa#6273
-* E-mail: irina.rewa@gmail.com
+* E-mail: Irina.rewa@gmail.com
+
 ------------------------------
 ## Education: ##
 * 2001-2002 Professional Lyceum of Communications
