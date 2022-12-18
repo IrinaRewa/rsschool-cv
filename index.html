@@ -7,26 +7,50 @@
     <title>cv</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="assets/img/favicon.ico">
-    <header>
-        <h1 align="center"><img src="assets/img/ava.jpg" alt="avatar" width="150px" height="150px">Reva Irina</h1>
-
-    </header>
 </head>
 <body class="body">
-    <section>
-       <h1> Contact information:</h1>
-       <p>Discord: Irina_Rewa(@IrinaRewa)</p>
-       <p>E-mail:<a href="mailto: irina.rewa@gmail.com"> Irina.rewa@gmail.com</a></p>
-    </section>
-    <section>
+    <header class="header">
+        <div class="container">
+            <a href="#contact" class="nav-link">Contact information</a>
+            <a href="#about_myself" class="nav-link">About myself</a>
+            <a href="#education" class="nav-link">Education</a>
+            <a href="#code_example" class="nav-link">Code example</a>
+            <a href="#skills" class="nav-link">Skills</a>
+            <a href="#languages" class="nav-link">Languages</a>
+           
+        </div>
+    </header>
+    <header>
+        <h1 align="left"><span class="circle-image" ><img src="assets/img/ava.jpg" alt="avatar" width="150px" height="150px"></span>Reva Irina</h1>
+    </header>
+ 
+    <main class="main_container">
+        <div class="left_side">
+            <section id="contact">
+                <h1>Contact information:</h1>
+                <ul>
+                <li><b>Discord:</b> Irina_Rewa(@IrinaRewa)</li>
+                <li><b>E-mail:</b><a href="mailto: irina.rewa@gmail.com"> Irina.rewa@gmail.com</a></li>
+            </ul>
+             </section>
+             <section id="languages">
+                <h1>Languages</h1>
+                <ul>
+                    <li><b>Russian:</b> native speaker</li>
+                    <li><b>English:</b> intermediate (B1)</li>
+                </ul>
+            </section>
+        </div>
+   <div class="right-side">
+    <section id="education">
         <h1>Education:</h1>
         <p>2003-2008 Kyrgyz State Technical University named after I.Razzakov</p>
-          <p> Speciality: Software for computer technology and automated systems</p>
+          <p><b> Speciality:</b> Software for computer technology and automated systems</p>
     </section>
-    <section><h1>About myself:</h1>
+    <section id="about_myself"><h1>About myself:</h1>
         <p>I'm 39 years old. I like to develop and learn something new. Like to read books, listen to music.</p>
     </section>
-    <section>
+    <section id="code_example">
         <h1>Code example</h1>
 <pre> 
     <code>function multiply(a, b){
@@ -35,18 +59,13 @@
     </code>
 </pre>
     </section>
-    <section>
+    <section id="skills">
         <h1>Skills</h1>
         <p>Nothing yet</p>
     </section>
-    <section>
-        <h1>Languages</h1>
-        <ul>
-            <li>Russian - native speaker</li>
-            <li>English - intermediate (B1)</li>
-        </ul>
-    </section>
-    <footer class="footer" link="black">
+</div>
+</main>
+    <footer class="footer">
 
           <div>
            <span>December 2022</span>
